@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xiangwork/openpdd/core/internal/debug"
-	"github.com/xiangwork/openpdd/model"
-	"github.com/xiangwork/openpdd/util"
-	"github.com/xiangwork/openpdd/util/query"
+	"github.com/jiaxiu-x/openpdd/core/internal/debug"
+	"github.com/jiaxiu-x/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/util"
+	"github.com/jiaxiu-x/openpdd/util/query"
 )
 
 // SDKClient sdk client

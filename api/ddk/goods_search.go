@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // GoodsSearchRequest 多多进宝商品查询 API Request

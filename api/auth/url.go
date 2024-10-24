@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/xiangwork/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/core"
 )
 
 // URLRequest 组装授权页URL API Request

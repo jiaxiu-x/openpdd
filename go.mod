@@ -1,4 +1,4 @@
-module github.com/xiangwork/openpdd
+module github.com/jiaxiu-x/openpdd
 
 go 1.20
 

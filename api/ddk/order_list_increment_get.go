@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // OrderListIncrementGetRequest 最后更新时间段增量同步推广订单信息 API Request

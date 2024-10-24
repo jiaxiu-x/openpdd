@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // TokenRefreshRequest 刷新Access Token API Request

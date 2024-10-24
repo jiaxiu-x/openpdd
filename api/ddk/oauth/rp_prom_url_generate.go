@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/xiangwork/openpdd/api/ddk"
-	"github.com/xiangwork/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/api/ddk"
+	"github.com/jiaxiu-x/openpdd/core"
 )
 
 // RpPromUrlGenerateRequest 生成营销工具推广链接 API Request

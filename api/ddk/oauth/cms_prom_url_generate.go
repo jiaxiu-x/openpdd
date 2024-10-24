@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/xiangwork/openpdd/api/ddk"
-	"github.com/xiangwork/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/api/ddk"
+	"github.com/jiaxiu-x/openpdd/core"
 )
 
 // CmsPromUrlGenerateRequest 生成商城-频道推广链接 API Request

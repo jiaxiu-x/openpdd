@@ -1,8 +1,8 @@
 package pmc
 
 import (
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // AccrueQueryRequest 消息队列积压数量查询 API Request

@@ -3,8 +3,8 @@ package ddk
 import (
 	"errors"
 
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // GoodsPromotionRightAuthRequest 多多进宝信息流渠道备案授权素材上传接口 API Request
@@ -49,7 +49,7 @@ func GoodsPromotionRightAuth(clt *core.SDKClient, req *GoodsPromotionRightAuthRe
 	if err := clt.Do(req, &resp, ""); err != nil {
 		return err
 	}
-	if !resp.Response.Result {
+	if resp.Response.Reason != "" {
 		return errors.New(resp.Response.Reason)
 	}
 	return nil

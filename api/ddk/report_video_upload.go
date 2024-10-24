@@ -3,8 +3,8 @@ package ddk
 import (
 	"io"
 
-	"github.com/xiangwork/openpdd/core"
-	"github.com/xiangwork/openpdd/model"
+	"github.com/jiaxiu-x/openpdd/core"
+	"github.com/jiaxiu-x/openpdd/model"
 )
 
 // ReportVideoUploadRequest 多多客信息流投放备案视频上传接口 API Request

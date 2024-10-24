@@ -1,12 +1,12 @@
 # 拼多多 OpenAPI golang版
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/xiangwork/openpdd.svg)](https://pkg.go.dev/github.com/xiangwork/openpdd)
-[![Go](https://github.com/xiangwork/openpdd/actions/workflows/go.yml/badge.svg)](https://github.com/xiangwork/openpdd/actions/workflows/go.yml)
-[![goreleaser](https://github.com/xiangwork/openpdd/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/xiangwork/openpdd/actions/workflows/goreleaser.yml)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/openpdd.svg)](https://github.com/xiangwork/openpdd)
-[![GoReportCard](https://goreportcard.com/badge/github.com/xiangwork/openpdd)](https://goreportcard.com/report/github.com/xiangwork/openpdd)
-[![GitHub license](https://img.shields.io/github/license/bububa/openpdd.svg)](https://github.com/xiangwork/openpdd/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/bububa/openpdd.svg)](https://github.com/xiangwork/openpdd/releases/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jiaxiu-x/openpdd.svg)](https://pkg.go.dev/github.com/jiaxiu-x/openpdd)
+[![Go](https://github.com/jiaxiu-x/openpdd/actions/workflows/go.yml/badge.svg)](https://github.com/jiaxiu-x/openpdd/actions/workflows/go.yml)
+[![goreleaser](https://github.com/jiaxiu-x/openpdd/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/jiaxiu-x/openpdd/actions/workflows/goreleaser.yml)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/openpdd.svg)](https://github.com/jiaxiu-x/openpdd)
+[![GoReportCard](https://goreportcard.com/badge/github.com/jiaxiu-x/openpdd)](https://goreportcard.com/report/github.com/jiaxiu-x/openpdd)
+[![GitHub license](https://img.shields.io/github/license/bububa/openpdd.svg)](https://github.com/jiaxiu-x/openpdd/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/bububa/openpdd.svg)](https://github.com/jiaxiu-x/openpdd/releases/)
 
 
 ## Implemented API
